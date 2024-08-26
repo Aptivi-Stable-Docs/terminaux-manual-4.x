@@ -5,7 +5,7 @@ description: Welcome to Terminaux!
 # 👋 Welcome!
 
 {% hint style="info" %}
-Terminaux 4.x is currently under active development. Give us your feedback by testing it!
+Terminaux 4.x is currently under active development, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/archived/4.3.x/spupdate). Give us your feedback by testing it!
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
