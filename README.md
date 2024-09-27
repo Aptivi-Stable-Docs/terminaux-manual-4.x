@@ -5,7 +5,7 @@ description: Welcome to Terminaux!
 # 👋 Welcome!
 
 {% hint style="info" %}
-Terminaux 4.x is currently under maintenance, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/archived/4.3.x/spupdate). This series is supported until August 1st, 2026.
+Terminaux 4.x is currently under maintenance, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/oob/4.3.x). This series is supported until August 1st, 2026.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
