@@ -1,8 +1,9 @@
 ---
 description: We need colors!
+icon: palette
 ---
 
-# 🎨 Color Sequences
+# Color Sequences
 
 Terminaux provides a functionality to generate color sequences with the help of the VT sequences. It allows you to generate a color with three modes:
 

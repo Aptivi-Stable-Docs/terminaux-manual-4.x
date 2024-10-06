@@ -1,8 +1,9 @@
 ---
 description: Getting a color from a text-based color representation.
+icon: badge-check
 ---
 
-# 🧭 Color Model Parsing
+# Color Model Parsing
 
 In addition to Terminaux supporting RGB color model, you can also use the CMYK and other color models when creating the color instances, provided that their specifiers that you must use are:
 

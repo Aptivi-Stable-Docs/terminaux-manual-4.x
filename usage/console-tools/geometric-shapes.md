@@ -1,8 +1,9 @@
 ---
 description: Drawing geometric shapes to the console!
+icon: triangle
 ---
 
-# 💠 Geometric Shapes
+# Geometric Shapes
 
 Terminaux also provides a wide assortment of classes that allow you to render different geometric shapes to the console easily. You can select one of the following shapes to render to your console:
 

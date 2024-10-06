@@ -1,8 +1,9 @@
 ---
 description: Size requirements for the console can be customized
+icon: badge-check
 ---
 
-# ☑️ Console Size Requirements
+# Console Size Requirements
 
 The console size requirement checking has been recently added to the latest version of Terminaux. This assists your application in determining your minimum console size requirements, with the default being the standard [80x24](https://softwareengineering.stackexchange.com/a/148765) console size for historical reasons.
 

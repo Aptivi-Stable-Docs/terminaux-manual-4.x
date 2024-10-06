@@ -1,8 +1,9 @@
 ---
 description: Terminaux's Color meets System.Drawing's Color!
+icon: paintbrush
 ---
 
-# 🖌️ Interop with System.Drawing.Color
+# Interop with System.Drawing.Color
 
 Since Terminaux 2.5.0, we've introduced a new way to interact with `System.Drawing`'s [`Color`](https://learn.microsoft.com/en-us/dotnet/api/system.drawing.color?view=net-8.0) struct! You can find all the tools in the `SystemColorConverter` class under `Terminaux.Colors.Interop`. The `Color` struct from `System.Drawing` represents the four color components:
 

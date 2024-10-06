@@ -1,8 +1,9 @@
 ---
 description: We need to filter and build the VT sequences.
+icon: wave-sine
 ---
 
-# 🎚️ VT Sequences
+# VT Sequences
 
 In your own terminal emulator, VT sequences are the power of any terminal emulator found in literally every PC.
 

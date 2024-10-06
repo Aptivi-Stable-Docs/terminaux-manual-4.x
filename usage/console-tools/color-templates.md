@@ -1,8 +1,9 @@
 ---
 description: Colors in one group.
+icon: image
 ---
 
-# 🖼️ Color Templates
+# Color Templates
 
 The color templates allow you to organize your colors into one group, known as a template. It allows you to group all your colors and categorize them into a template for easier organization without resorting to building your own in your application. These templates can be built from a JSON string or a file, but should be of the below format:
 

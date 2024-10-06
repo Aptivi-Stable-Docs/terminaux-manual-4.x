@@ -1,8 +1,9 @@
 ---
 description: Here's how you can let the users choose their own colors
+icon: palette
 ---
 
-# 🎨 Color Wheel
+# Color Wheel
 
 The new color wheel, `ColorSelector`, is now available. You can use this brand new color selector to get information about your selected color visually. You can call the `OpenColorSelector()` function in your code to get the new color selector.
 

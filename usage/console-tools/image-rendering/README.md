@@ -1,8 +1,9 @@
 ---
 description: Images in the terminal!
+icon: image
 ---
 
-# 🖼️ Image Rendering
+# Image Rendering
 
 In addition to all of the features that Terminaux provides, it also provides an extra library that your terminal applications can use, called `Terminaux.Images`, that supports Windows, macOS, and Linux. It doesn't use [`System.Drawing`](https://learn.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/6.0/system-drawing-common-windows-only) due to its exclusivity to Windows.
 

@@ -1,8 +1,9 @@
 ---
 description: Presenting your things to the kernel!
+icon: presentation-screen
 ---
 
-# 📽️ Presentation System
+# Presentation System
 
 This API provides you the presentation system used for presenting something to your users in the full-screen view. It's like a presentation in steroids.
 

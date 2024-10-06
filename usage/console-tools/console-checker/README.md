@@ -1,8 +1,9 @@
 ---
 description: Checking to see if you're working on the right console...
+icon: badge-check
 ---
 
-# ✅ Console Checker
+# Console Checker
 
 Sometimes, your console application might need some of the additional features, such as VT color sequences, that might not be available to all of the terminal emulators installed on your system. In this case, Terminaux provides you with a wide assortment of console checkers to ease the process of checking the features.
 

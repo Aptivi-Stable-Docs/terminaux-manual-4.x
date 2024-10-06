@@ -1,8 +1,9 @@
 ---
 description: We need to write to the console
+icon: pen
 ---
 
-# 🖊️ Console Writers
+# Console Writers
 
 Terminaux provides a vast amount of console writers for different purposes, like the progress bar writer, writing console output in color, etc. Also, you can use their `Render()` functions found in basically every static writer (not those that are dynamic, such as wrapped writers).
 

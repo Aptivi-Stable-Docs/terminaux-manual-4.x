@@ -1,8 +1,9 @@
 ---
 description: Console color tools here!
+icon: palette
 ---
 
-# 🌈 Console Colors
+# Console Colors
 
 In addition to all of the Terminaux's features, we also provide you with a rich class for console color tools. Here are the supported properties and functions that you can use in your console applications:
 

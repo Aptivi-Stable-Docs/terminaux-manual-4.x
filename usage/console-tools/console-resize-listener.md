@@ -1,8 +1,9 @@
 ---
 description: We're listening for any size changes!
+icon: maximize
 ---
 
-# ☎️ Console Resize Listener
+# Console Resize Listener
 
 Terminaux also provides you with either a polling-based console resize listener for non-Unix systems or a SIGWINCH-based listener for Unix systems that allows your console application, especially the interactive ones, to listen to every single console resize event for all the platforms. It works on Windows, macOS, Linux, and Android.
 

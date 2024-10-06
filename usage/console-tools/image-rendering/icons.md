@@ -1,8 +1,9 @@
 ---
 description: Describe something using images!
+icon: crystal-ball
 ---
 
-# 🔮 Icons
+# Icons
 
 As of Terminaux 4.2.0, it provides a method to render icons. They represent symbols that describe something, such as computer peripherals and books, to describe a thing or two using just the icons. The `IconsManager` class provides you with icon management tools that allow you to render the icons and get their names.
 

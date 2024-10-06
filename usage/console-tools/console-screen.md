@@ -1,8 +1,9 @@
 ---
 description: Your screen in front of you.
+icon: display
 ---
 
-# 📺 Console Screen
+# Console Screen
 
 Terminaux offers the console screen feature, which allows you to define a screen for your interactive console application. This guarantees you a dynamic terminal sequence generation that you can print to the console. Usage of the VT sequences can be found here:
 

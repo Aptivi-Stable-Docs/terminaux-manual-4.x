@@ -1,8 +1,9 @@
 ---
 description: We need to highlight things to make them easier to find.
+icon: flashlight
 ---
 
-# 🔦 Syntax Highlighting
+# Syntax Highlighting
 
 Syntax highlighting is commonly found in code editors, code viewers, and some shells, such as zsh. We believe that syntax highlighting makes it easier to distinguish between parts of text, making it easier to read and understand the whole text, especially if you're reading a codebase, such as Terminaux's source code.
 

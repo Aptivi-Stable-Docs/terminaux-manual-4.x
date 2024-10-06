@@ -1,8 +1,9 @@
 ---
 description: In case you want to set things up
+icon: gear
 ---
 
-# ⚙️ Reader Settings
+# Reader Settings
 
 The reader currently has a global settings instance session-wide. However, it can get overridden if you make a new instance of `TermReaderSettings` with some available properties mentioned below set. They get read each time you call this function or you activate a keybinding that uses one of these settings.
 

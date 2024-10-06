@@ -1,8 +1,9 @@
 ---
 description: How do I wrap the console?
+icon: plug
 ---
 
-# 🔌 Console Wrapper
+# Console Wrapper
 
 Terminaux provides you with a powerful console wrapper that allows you to customize how the console behaves in your .NET console applications that make use of this wrapper and/or built-in Terminaux features. This wrapper is easy to use, amidst the recent structural improvements to the console wrapper functionality compared to Terminaux 1.x.
 

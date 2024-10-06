@@ -1,8 +1,9 @@
 ---
 description: Mouse on your console!
+icon: computer-mouse
 ---
 
-# 🖱️ Pointer Events
+# Pointer Events
 
 Terminaux not only provides keyboard-based input, but it also provides mouse-based input. This adds flexibility to your already-flexible interactive console user interfaces by making them behave as if they are graphical user interface applications, but in the form of text.
 

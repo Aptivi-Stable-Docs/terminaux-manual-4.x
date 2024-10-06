@@ -1,8 +1,9 @@
 ---
 description: How to assign your own binding?
+icon: plug
 ---
 
-# 🔌 Custom Bindings
+# Custom Bindings
 
 TermRead supports custom bindings, which you can assign your `BaseBinding` class containing the following functions you must override:
 

@@ -1,8 +1,9 @@
 ---
 description: Everything about the console
+icon: computer
 ---
 
-# 🖥️ Console Tools
+# Console Tools
 
 Terminaux was created to provide you various console tools that are useful for your interactive .NET console applications, such as those that simulate the textual user interface (TUI) for various interactive applications, such as Nitrocid KS, BassBoom, and GRILO.
 

@@ -1,8 +1,9 @@
 ---
 description: From RGB to CMYK to HSL to...
+icon: palette
 ---
 
-# ⛱️ Color Model Conversions
+# Color Model Conversions
 
 Terminaux provides several color models that you can convert from/to using the `Color` instance. You can use the RGB property from it to be able to start converting your color to another color model using the appropriate conversion tools for your target unit. The appropriate conversion tools are found in the `ConversionTools` class.
 

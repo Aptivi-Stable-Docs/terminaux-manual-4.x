@@ -1,8 +1,9 @@
 ---
 description: The reader state.
+icon: badge-check
 ---
 
-# ✔️ Reader State
+# Reader State
 
 ## Reader State
 

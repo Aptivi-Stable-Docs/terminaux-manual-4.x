@@ -1,8 +1,9 @@
 ---
 description: Nerd Fonts support coming to Terminaux!
+icon: glasses
 ---
 
-# 🕶️ Nerd Fonts
+# Nerd Fonts
 
 Terminaux also provides Nerd Fonts management for the text that you print to the console. This is to make applications look more understandable thanks to a large collection of Nerd Fonts glyphs that contain several different types of Nerd Fonts icons. Nerd Fonts in Terminaux is categorized into different types according to the glyph sets provided by the [NF wiki](https://github.com/ryanoasis/nerd-fonts/wiki/Glyph-Sets-and-Code-Points):
 

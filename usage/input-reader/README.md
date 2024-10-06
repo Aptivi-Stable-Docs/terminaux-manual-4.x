@@ -1,8 +1,9 @@
 ---
 description: May I read what you've written, please?
+icon: book-open
 ---
 
-# 📖 Input Reader
+# Input Reader
 
 This functionality is an important part of any interactive console application, because it gives users a chance to input what they want to write to the console.
 

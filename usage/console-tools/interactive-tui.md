@@ -1,8 +1,9 @@
 ---
 description: Your apps are now interactive
+icon: keyboard
 ---
 
-# ⌨️ Interactive TUI
+# Interactive TUI
 
 The interactive TUI allows you to make your apps interactive if they provide one or two data sources, which consist of a list of strings, integers, and even class instances, to make getting information about them easier. The interactive TUI renders the screen in two panes, the top being a status bar, and the bottom being a list of key bindings. For clarification, the `ifm` command uses the double pane interactive TUI and the `taskman` command uses the single pane interactive TUI with info in the second pane:
 

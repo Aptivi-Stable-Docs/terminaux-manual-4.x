@@ -1,8 +1,9 @@
 ---
 description: How do you use it?
+icon: lightbulb-on
 ---
 
-# 💡 Preface
+# Preface
 
 To use this library, you first need to know exactly why do you need to install Terminaux into your console application. If your application is intended to be an interactive one, or if your application shows graphics (text, info box, ...), then Terminaux is the right library for you.
 

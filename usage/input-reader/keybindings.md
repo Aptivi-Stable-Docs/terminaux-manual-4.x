@@ -1,8 +1,9 @@
 ---
 description: Press any key!
+icon: keyboard
 ---
 
-# ⌨️ Keybindings
+# Keybindings
 
 TermRead implements the following keybindings to interact with the input:
 

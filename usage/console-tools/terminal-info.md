@@ -1,8 +1,9 @@
 ---
 description: What's your terminal type and its capabilities?
+icon: square-terminal
 ---
 
-# 📟 Terminal Info
+# Terminal Info
 
 Terminal information database is a list of terminal capabilities that control how console applications determine capabilities in the terminal type that the emulator uses, such as the color depth capability and the method of writing sequences that change the background and the foreground color. Termcap was implemented in 1978, and Terminfo was implemented in 1981-1982. Applications that use `ncurses` (for non-C# applications) or Terminaux (for C# applications) can use the database to get the capabilities.
 

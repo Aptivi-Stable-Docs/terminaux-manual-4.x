@@ -1,8 +1,9 @@
 ---
 description: How can you extend your console?
+icon: plus
 ---
 
-# ➕ Console Extensions
+# Console Extensions
 
 Terminaux not only provides basic console tools to make building your console applications easier, but you can also rely on the extensions provided below to maximize your productivity. Below are the extensions that you can use. Any extension that is not documented can be referred to in the API documentation below:
 
