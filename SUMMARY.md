@@ -42,5 +42,4 @@
 
 * [Report an issue](https://github.com/Aptivi/Terminaux/issues/new)
 * [Source code](https://github.com/Aptivi/Terminaux)
-* [Our projects](https://github.com/Aptivi)
 * [API Reference](https://aptivi.github.io/Terminaux/)
