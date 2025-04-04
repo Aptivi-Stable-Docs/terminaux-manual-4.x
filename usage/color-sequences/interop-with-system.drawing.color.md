@@ -12,12 +12,6 @@ Since Terminaux 2.5.0, we've introduced a new way to interact with `System.Drawi
 * Green (G): Green color level.
 * Blue (B): Blue color level.
 
-{% hint style="warning" %}
-Terminaux doesn't translate the Alpha component of System.Drawing's Color instances. Therefore, they're always assumed to be 255 (100% opaque) during the conversion process, which means that the relationship between the two colors is not 1:1 after the conversion as all transparency is lost.
-
-This is a limitation in Terminaux's part and will hopefully be solved as soon as possible.
-{% endhint %}
-
 This class provides the following functions:
 
 {% code title="SystemColorConverter.cs" lineNumbers="true" %}
