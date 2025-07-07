@@ -1,12 +1,12 @@
 ---
-icon: hand-wave
 description: Welcome to Terminaux!
+icon: hand-wave
 ---
 
 # Welcome!
 
 {% hint style="info" %}
-Terminaux 4.x is currently under maintenance, but [under another branch](https://github.com/Aptivi/Terminaux/tree/x/oob/4.3.x). This series is supported until July 7th, 2025.
+Terminaux 4.x is no longer supported as of 7/7/2025.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
